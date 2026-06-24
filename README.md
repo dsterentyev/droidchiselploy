@@ -20,9 +20,9 @@ For optimal app functioning, it may be advisable to disable its unloading in idl
 
 ## Compilation: 
 
-In short: Run Android Studio, import repository, wait for import complete, run buildinging...
+In short: Run Android Studio, import repository, wait for import complete, and start building...
 
-libdroidchiselploy.so is prebuilt chisel executable current version (1.11.5), compiled on Android device in Termux. It may be also run standalone in Termux or adb shell. 
+libdroidchiselploy.so is prebuilt chisel executable of current version (1.11.5), compiled on Android device in Termux. It may be also run standalone in Termux or adb shell. 
 
 Included apk is suitable only for ARM64/aarch64 architecture (most modern Android devices). If you need to use the application on other architectures - x86, x64 or armv7 (older 32-bit Android devices), you need to rebuild the installation package in Android Studio, having first downloaded the libdroidchiselploy.so executable file built for the target Android architecture to the \app\src\main\jniLibs\architecture_name directory.
 
