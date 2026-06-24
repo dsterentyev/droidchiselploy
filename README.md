@@ -2,13 +2,13 @@
 
 > Simple app for running chisel in background on Android device
 
-![Screenshot of chisel client as socks5 proxy](./Screenshot01.png)
-
 A simple Android app for running chisel (a fast TCP/UDP tunnel over HTTP app written by Jaime Pillora) as a service.
 
 The app is a fork of Droidploy by Yashvant Yadav. Its repository - https://github.com/YadavYashvant/Droidploy
 
 Chisel repository - https://github.com/jpillora/chisel/
+
+![Screenshot of chisel client as socks5 proxy](./Screenshot01.png)
 
 ## Usage
 
